@@ -21,3 +21,7 @@ cd ..
 
 ## screenshots
 ![screenshot1](https://cdn.discordapp.com/attachments/863096970603003914/942121285373284352/unknown.png)
+![screenshot2](https://cdn.discordapp.com/attachments/863096970603003914/942121375244648478/unknown.png)
+![screenshot3](https://cdn.discordapp.com/attachments/863096970603003914/942121500914376814/unknown.png)
+![screenshot4](https://cdn.discordapp.com/attachments/863096970603003914/942122658366119997/unknown.png)
+![screenshot5](https://cdn.discordapp.com/attachments/863096970603003914/942122743581794384/unknown.png)
