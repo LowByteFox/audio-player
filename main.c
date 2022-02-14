@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <gtk/gtk.h>
 #include <string.h>
-#include "include/raudio.h"
+#include <raudio.h>
 #include <pthread.h>
 
 /*
@@ -80,7 +80,7 @@ void *update(void *vargp)
         while (GetMusicTimePlayed(music) < (GetMusicTimeLength(music) - 0.007)) {
             if (!paused) UpdateMusicStream(music);
             if (stop) break;
-            sleep(0.1);
+            sleep(1);
         }
         SeekMusicStream(music, 0);
     }
